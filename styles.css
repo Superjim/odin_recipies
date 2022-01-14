@@ -1,0 +1,29 @@
+
+body {    background-color: salmon;
+}
+
+#title {
+    font-size: 32px;
+    color: blueviolet;
+    background-color: rosybrown;
+    text-align: center;
+    border: 5px dotted darkturquoise;
+}
+
+.butter {
+    background-color: darkturquoise;
+    border: 5px solid blanchedalmond;
+    color:gainsboro;
+    padding: 30px 50px;
+    text-align: center;
+    text-decoration: ghostwhite;
+    display:flexbox;
+    font-size: 24px;
+}
+
+ul {
+    list-style-type: lower-greek;
+    list-style-position: outside;
+    margin: 10px;
+    padding: 20px;
+}
